@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CampaignEtl.iml" filepath="$PROJECT_DIR$/.idea/modules/CampaignEtl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CampaignEtl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/CampaignEtl-build.iml" />
+    </modules>
+  </component>
+</project>

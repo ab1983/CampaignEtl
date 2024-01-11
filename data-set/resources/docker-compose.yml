@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  postgres:
+    image: 0q934bnarvwf/sitecore-data-engineer-codetest-example:postgres-with-example-data
+    environment:
+      - PGDATA=/postgres
+    ports:
+      - "5432:5432"

@@ -1,0 +1,10 @@
+contents of folder:
+
+- attribution-query.sql
+- contents.txt
+- etl-data/
+  - 10k-orders.json
+  - 200k-events.json
+- resources/
+  - docker-compose.yml
+  - connection-info.txt
